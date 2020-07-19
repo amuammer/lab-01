@@ -81,7 +81,7 @@
       'g g h h h'
       'i i i i i';
     grid-gap: 1px;
-    background-color: gray;
+    background-color: red;
     width: 480px;
     height: 1060px;
   }
