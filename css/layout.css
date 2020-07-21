@@ -8,6 +8,12 @@
 .h { grid-area: h; }
 .i { grid-area: i; }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media(min-width: 769px) {
   .grid-container {
     display: grid;
